@@ -1,6 +1,7 @@
 # Car-sales-bi-project
-car sales dashboard created with help of power bi software.
+my first car sales dashboard created with help of power bi software.
 
+play with dashboard click : https://www.novypro.com/project/car-sales-bi-dashboard
 
 points:
 #clean the dataset their is  some columns having same value but name  as different eg volkswagen. 
