@@ -11,6 +11,4 @@ play with dashboard click : https://www.novypro.com/project/car-sales-bi-dashboa
 
 #make sure that to add photo in table.
 
-#some blank slicer will be created while entering 
-
-age url better to hide it by using filter
+#some blank slicer will be created while entering age url better to hide it by using filter
